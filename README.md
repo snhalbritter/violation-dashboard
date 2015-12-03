@@ -12,6 +12,3 @@ library( shiny )
 runGitHub( repo="violation-dashboard", username="DDDmakers")
 
 ```
-
-This is a test to see how pull requests work. 
-
